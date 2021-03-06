@@ -1,16 +1,18 @@
-### Yo Its Perk#6666
-__________________________________________________________________
+### Yo Its RePerk Also Know As Perk
+________________________________________________________________________________________________________________________
 
-I'm a Dweeb and a self taught developer
+・I'm A Self Taught Developer
 
-👨‍💻 I’m currently working on Game Exploitation
+・I’m currently working on Game Exploitation
 
-📚 I’m currently learning everything about c++ 😅
+・I’m currently learning everything about c++ 😅
 
-💪🏼 Future Goals: Learn 2 More languages.
+・You Can Always Fined Me On Discord :)
 
-You can always fine me on discord :)
+・My Discord Servers
+ ________________________________________________________________________________________________________________________
+・Powerware : https://discord.gg/gJJwWZepCq
 
-My Discord Server: https://discord.gg/inverse (https://discord.gg/2uYEP5h6Rw)
+・PerkPaste.io : https://discord.gg/Ua4D4KVr9n
 
-Widzo#1337
+</Perk>#6666
