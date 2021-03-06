@@ -1,12 +1,15 @@
-### Yo Wagwan Its Perk#6666
+Yo Its Perk#6666
 
-### ---+ Info +---
-###    Age: 15
-###    Currently Working On Cheat Development
-###    Know 60% C#
-###    Know 70% C++
-###    
-### ---+ Development +---
-###  ⚡ Powerware ⚡
-###  ⚡ PerkPaste.io ⚡
+I'm a Dweeb and a self taught developer
 
+👨‍💻 I’m currently working on Game Exploitation
+
+📚 I’m currently learning everything about c++ 😅
+
+💪🏼 Future Goals: Learn 2 More languages.
+
+You can always fine me on discord :)
+
+My Discord Server: https://discord.gg/inverse (https://discord.gg/2uYEP5h6Rw)
+
+Widzo#1337
