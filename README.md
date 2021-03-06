@@ -1,4 +1,4 @@
-### Yo Wagwan Its </Perk>#6666
+### Yo Wagwan Its Perk#6666
 
 ### ---+ Info +---
 ###    Age: 15
@@ -7,7 +7,6 @@
 ###    Know 70% C++
 ###    
 ### ---+ Development +---
-###-  ⚡ Powerware ⚡
-###-  ⚡ PerkPaste.io ⚡
+###  ⚡ Powerware ⚡
+###  ⚡ PerkPaste.io ⚡
 
---!>
