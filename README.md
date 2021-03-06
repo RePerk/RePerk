@@ -10,9 +10,7 @@ ________________________________________________________________________________
 ・You Can Always Fined Me On Discord :)
 
 ・My Discord Servers
- ________________________________________________________________________________________________________________________
 ・Powerware : https://discord.gg/gJJwWZepCq
 
 ・PerkPaste.io : https://discord.gg/Ua4D4KVr9n
 
-</Perk>#6666
